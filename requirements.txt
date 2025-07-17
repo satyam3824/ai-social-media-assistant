@@ -6,6 +6,7 @@ numpy
 google-generativeai
 langchain-google-genai
 langchain-core
+langchain # Added this line
 pydantic>=2,<3
 youtube-transcript-api
 python-docx
